@@ -1,7 +1,4 @@
 {
-  "tag": "pt",
-  "type": "remote",
-  "format": "source",
-  "url": "https://raw.githubusercontent.com/gx761513827/clash/refs/heads/main/PT.json",
-  "download_detour": "auto"
+  "rules": [],
+  "version": 2
 }
